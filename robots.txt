@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Anurag6911.github.io/sitemap.xml
+Sitemap: https://anurag6911.github.io/sitemap.xml
